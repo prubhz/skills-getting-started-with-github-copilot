@@ -25,19 +25,35 @@ activities = {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 12,
-        "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
+        "participants": [
+            "michael@mergington.edu",
+            "daniel@mergington.edu",
+            "nina@mergington.edu",
+            "sophia@mergington.edu"
+        ]
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 20,
-        "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
+        "participants": [
+            "emma@mergington.edu",
+            "sophia@mergington.edu",
+            "ryan@mergington.edu",
+            "maria@mergington.edu"
+        ]
     },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
-        "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+        "participants": [
+            "john@mergington.edu",
+            "olivia@mergington.edu",
+            "hannah@mergington.edu",
+            "liam@mergington.edu",
+            "noah@mergington.edu"
+        ]
     },
     "Basketball Team": {
         "description": "Competitive basketball team for intramural and inter-school matches",
